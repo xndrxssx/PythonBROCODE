@@ -25,7 +25,7 @@ window.bind("<Left>", move_left)
 window.bind("<Right>", move_right)
 
 
-myImage = PhotoImage(file='car.png')
+myImage = PhotoImage(file='Images/car.png')
 label = Label(window, image=myImage)
 label.place(x=0, y=0)
 

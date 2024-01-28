@@ -5,7 +5,7 @@ def submit():
 
 window = Tk()
 
-hotImage = PhotoImage(file='flame.png')
+hotImage = PhotoImage(file='Images/flame.png')
 hotLabel = Label(image=hotImage)
 hotLabel.pack()
 
@@ -26,7 +26,7 @@ scale.set(((scale['from']-scale['to'])/2)+scale['to'])
 
 scale.pack()
 
-coldImage = PhotoImage(file='snow.png')
+coldImage = PhotoImage(file='Images/snow.png')
 coldLabel = Label(image=coldImage)
 coldLabel.pack()
 

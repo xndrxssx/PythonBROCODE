@@ -10,7 +10,7 @@ window = Tk()
 
 x = IntVar()
 
-check = PhotoImage(file='check.png')
+check = PhotoImage(file='Images/check.png')
 
 check_button = Checkbutton(window,
                            text="I agree",

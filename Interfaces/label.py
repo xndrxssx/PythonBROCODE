@@ -5,11 +5,11 @@ window = Tk()  # instantiate an instance of a window
 # window.geometry("420x420")
 window.title("Jegona's window")
 
-icon = PhotoImage(file='logo.png')
+icon = PhotoImage(file='Images/logo.png')
 window.iconphoto(True, icon)
 window.config(background="#BAB1FF")
 
-photo = PhotoImage(file='babies.png')
+photo = PhotoImage(file='Images/babies.png')
 
 label = Label(window,
               text="Hello",

@@ -26,7 +26,7 @@ window.bind("<Right>", move_right)
 canvas = Canvas(window, width=500, height=500)
 canvas.pack()
 
-photoImage = PhotoImage(file='car.png')
+photoImage = PhotoImage(file='Images/car.png')
 myCar = canvas.create_image(0,0,image=photoImage, anchor=NW)
 
 window.mainloop()

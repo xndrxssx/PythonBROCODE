@@ -11,10 +11,10 @@ window = Tk()
 canvas = Canvas(window, width=WIDTH, height=HEIGHT)
 canvas.pack()
 
-bg = PhotoImage(file='space.png')
+bg = PhotoImage(file='Images/space.png')
 background = canvas.create_image(0, 0, image=bg, anchor=NW)
 
-ufo = PhotoImage(file='alien.png')
+ufo = PhotoImage(file='Images/alien.png')
 alien = canvas.create_image(0, 0, image=ufo, anchor=NW)
 
 image_width = ufo.width()
