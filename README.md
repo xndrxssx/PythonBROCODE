@@ -1,2 +1,2 @@
-# PythonBROCODE
-Começando a estudar Python pelo canal BroCode
+# Python
+Começando a estudar Python 
