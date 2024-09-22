@@ -1,5 +1,5 @@
 # Python
-Começando a estudar Python, meus resultados aplicando os conhecimentos da aula: https://www.youtube.com/watch?v=XKHEtdqhLK8
+Esse repositório contém meus resultados aplicando os conhecimentos da aula: https://www.youtube.com/watch?v=XKHEtdqhLK8. Eu estava aprendendo o básico do Python então me desafiei a assistir a aula completa e implementar os desafios. Abaixo anexei algumas imagens desses resultados 🥰.
 
 # Screenshots de alguns exercícios:
 <div align="center">
